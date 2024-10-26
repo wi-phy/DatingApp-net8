@@ -5,4 +5,4 @@ dotnet dev-certs https --clean
 dotnet dev-certs https --trust
 ```
 
-Pour retrouver le certificat `Win + R` et taper `certmgr.msc` puis `Personnel > Certificats`.
+To find certs `Win + R` and type `certmgr.msc` then `Personnal > Certificates`.
